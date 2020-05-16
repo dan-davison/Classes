@@ -1,0 +1,11 @@
+E:\Documents\Dan's Documents\Swinburne\Cert IV Work\Intro Programming\Classes\Task2New\obj\Debug\netcoreapp3.1\Task2New.csprojAssemblyReference.cache
+E:\Documents\Dan's Documents\Swinburne\Cert IV Work\Intro Programming\Classes\Task2New\obj\Debug\netcoreapp3.1\Task2New.AssemblyInfoInputs.cache
+E:\Documents\Dan's Documents\Swinburne\Cert IV Work\Intro Programming\Classes\Task2New\obj\Debug\netcoreapp3.1\Task2New.AssemblyInfo.cs
+E:\Documents\Dan's Documents\Swinburne\Cert IV Work\Intro Programming\Classes\Task2New\bin\Debug\netcoreapp3.1\Task2New.exe
+E:\Documents\Dan's Documents\Swinburne\Cert IV Work\Intro Programming\Classes\Task2New\bin\Debug\netcoreapp3.1\Task2New.deps.json
+E:\Documents\Dan's Documents\Swinburne\Cert IV Work\Intro Programming\Classes\Task2New\bin\Debug\netcoreapp3.1\Task2New.runtimeconfig.json
+E:\Documents\Dan's Documents\Swinburne\Cert IV Work\Intro Programming\Classes\Task2New\bin\Debug\netcoreapp3.1\Task2New.runtimeconfig.dev.json
+E:\Documents\Dan's Documents\Swinburne\Cert IV Work\Intro Programming\Classes\Task2New\bin\Debug\netcoreapp3.1\Task2New.dll
+E:\Documents\Dan's Documents\Swinburne\Cert IV Work\Intro Programming\Classes\Task2New\bin\Debug\netcoreapp3.1\Task2New.pdb
+E:\Documents\Dan's Documents\Swinburne\Cert IV Work\Intro Programming\Classes\Task2New\obj\Debug\netcoreapp3.1\Task2New.dll
+E:\Documents\Dan's Documents\Swinburne\Cert IV Work\Intro Programming\Classes\Task2New\obj\Debug\netcoreapp3.1\Task2New.pdb
